@@ -15,6 +15,14 @@
           "photo": "top-base.jpg"
         },
         {
+          "id": "top-base-warm",
+          "name": "Термобельё тёплое (комплект)",
+          "layer": "База",
+          "status": "have",
+          "notes": "Потеплее, верх + низ. Катаюсь в нём зимой",
+          "photo": "top-base-warm.jpg"
+        },
+        {
           "id": "top-mid",
           "name": "Флиска The North Face (грид-флис)",
           "layer": "Утеплитель",
