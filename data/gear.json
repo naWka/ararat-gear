@@ -8,11 +8,11 @@
       "items": [
         {
           "id": "top-base",
-          "name": "Термобельё, верх (база)",
+          "name": "Термобельё Craft, верх (база)",
           "layer": "База",
-          "status": "buy",
-          "notes": "",
-          "photo": null
+          "status": "have",
+          "notes": "Катаюсь в нём на сноуборде",
+          "photo": "top-base.jpg"
         },
         {
           "id": "top-mid",
