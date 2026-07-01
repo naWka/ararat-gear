@@ -187,6 +187,14 @@
           "photo": "hat.jpg"
         },
         {
+          "id": "balaclava",
+          "name": "Подшлемники (2 шт)",
+          "layer": "",
+          "status": "have",
+          "notes": "Тонкий трикотажный + флисовый Oakley потеплее",
+          "photo": "balaclava.jpg"
+        },
+        {
           "id": "goggles",
           "name": "Горнолыжная маска",
           "layer": "",
