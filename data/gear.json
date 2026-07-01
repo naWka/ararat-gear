@@ -44,7 +44,8 @@
           "layer": "Шелл",
           "status": "buy",
           "notes": "Forclaz MT500 Rain Jacket, размер L (с запасом под слои)",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/7909-jakne-za-planinarenje"
         }
       ]
     },
@@ -144,7 +145,8 @@
           "layer": "",
           "status": "buy",
           "notes": "",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/dodaci/124466-4962-crne-kamasne-za-planinarenje-trek-500.html"
         },
         {
           "id": "headlamp",
@@ -152,7 +154,8 @@
           "layer": "",
           "status": "buy",
           "notes": "Штурм начинается в 01:00-02:00 ночи",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/punjaci-baterije-i-solarni-paneli/328250-37489-crna-ceona-lampa-trek-500-200.html"
         },
         {
           "id": "poles",
@@ -168,7 +171,8 @@
           "layer": "",
           "status": "buy",
           "notes": "",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/stolice-i-prostirke-za-kampovanje/189397-15571-sivo-narancasta-podloga-za-planinarenje.html"
         },
         {
           "id": "gloves-thin",
@@ -216,7 +220,8 @@
           "layer": "",
           "status": "buy",
           "notes": "Обязательно! На снегу и высоте — защита от снежной слепоты. Маска не заменяет: потеет и жарко на подъёме",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/suncane-naocare-za-planinarenje-i-skijanje/329876-117878-naocare-za-sunce-za-planinarenje-mh570-za-odrasle-4-kategorija.html"
         },
         {
           "id": "gloves-warm",
@@ -224,7 +229,8 @@
           "layer": "",
           "status": "buy",
           "notes": "На штурм поверх тонких перчаток. Мороз + ветер выше 4500 м",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/7890-tople-rukavice-za-planinarenje"
         },
         {
           "id": "sun-cap",
@@ -232,7 +238,8 @@
           "layer": "",
           "status": "buy",
           "notes": "На подходах днём, солнце жёсткое",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/kape-kapice-i-trake-za-glavu/303600-36749-bez-kacket-za-treking-sa-zastitom-za-vrat-trek-900.html"
         },
         {
           "id": "camp-shoes",
@@ -338,7 +345,8 @@
           "layer": "",
           "status": "buy",
           "notes": "От горной болезни (обсудить с врачом), обезболивающее, пластыри и Compeed от мозолей, личные препараты",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/7959-prva-pomoc-za-planinarenje"
         },
         {
           "id": "powerbank",
@@ -354,7 +362,8 @@
           "layer": "",
           "status": "buy",
           "notes": "Быстрая энергия на штурме, когда есть не хочется",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/7442-energetske-plocice"
         },
         {
           "id": "hygiene",
@@ -370,7 +379,8 @@
           "layer": "",
           "status": "buy",
           "notes": "Разложить вещи в бауле и защитить от влаги",
-          "photo": null
+          "photo": null,
+          "link": "https://www.decathlon.rs/8384-vodootporne-torbe"
         },
         {
           "id": "earplugs",

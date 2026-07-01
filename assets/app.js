@@ -49,6 +49,7 @@ function cardHTML(item) {
         <div class="card-name">${item.name}</div>
         ${item.layer ? `<div class="card-layer">${item.layer}</div>` : ""}
         ${item.notes ? `<div class="card-notes">${item.notes}</div>` : ""}
+        ${item.link ? `<a class="card-link" href="${item.link}" target="_blank" rel="noopener">Купить в Decathlon ↗</a>` : ""}
       </div>
     </div>
   `;
