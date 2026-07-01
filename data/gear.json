@@ -46,11 +46,11 @@
         },
         {
           "id": "bottom-mid",
-          "name": "Мид-слой штаны",
+          "name": "Мид-слой штаны Forclaz MT500",
           "layer": "Утеплитель",
-          "status": "buy",
-          "notes": "Forclaz MT500",
-          "photo": null
+          "status": "have",
+          "notes": "",
+          "photo": "bottom-mid.jpg"
         },
         {
           "id": "bottom-shell",
@@ -59,14 +59,6 @@
           "status": "have",
           "notes": "HARD-TEX, 4 слоя, водостойкость 17 000 мм",
           "photo": "bottom-shell.jpg"
-        },
-        {
-          "id": "bottom-trek",
-          "name": "Треккинговые штаны Sivera",
-          "layer": "",
-          "status": "have",
-          "notes": "Основные ходовые штаны на подходы",
-          "photo": "bottom-trek.jpg"
         },
         {
           "id": "bottom-camp",
