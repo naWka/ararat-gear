@@ -102,9 +102,9 @@
           "id": "socks",
           "name": "Треккинговые носки (2 пары)",
           "layer": "",
-          "status": "buy",
+          "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "socks.jpg"
         },
         {
           "id": "gaiters",
