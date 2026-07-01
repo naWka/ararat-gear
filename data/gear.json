@@ -107,6 +107,14 @@
           "photo": "socks.jpg"
         },
         {
+          "id": "socks-sleep",
+          "name": "Тёплые носки для сна",
+          "layer": "",
+          "status": "have",
+          "notes": "Шерстяные, только для сна в палатке",
+          "photo": "socks-sleep.jpg"
+        },
+        {
           "id": "gaiters",
           "name": "Гамаши",
           "layer": "",
