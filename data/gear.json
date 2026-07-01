@@ -67,6 +67,14 @@
           "status": "have",
           "notes": "Основные ходовые штаны на подходы",
           "photo": "bottom-trek.jpg"
+        },
+        {
+          "id": "bottom-camp",
+          "name": "Тёплые штаны для лагеря (H&M, флис внутри)",
+          "layer": "",
+          "status": "have",
+          "notes": "Спортивные штаны с флисовой подкладкой, для вечера в лагере",
+          "photo": "pants-camp.jpg"
         }
       ]
     },
