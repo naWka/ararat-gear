@@ -23,6 +23,14 @@
           "photo": "top-mid.jpg"
         },
         {
+          "id": "top-mid-alt",
+          "name": "Анорак-флиска Rip Curl",
+          "layer": "Утеплитель",
+          "status": "have",
+          "notes": "Альтернатива флиске The North Face",
+          "photo": "top-mid-alt.jpg"
+        },
+        {
           "id": "top-shell",
           "name": "Мембранная куртка (шелл)",
           "layer": "Шелл",
