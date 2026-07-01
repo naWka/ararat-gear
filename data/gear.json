@@ -83,6 +83,14 @@
           "status": "have",
           "notes": "Спортивные штаны с флисовой подкладкой, для вечера в лагере",
           "photo": "pants-camp.jpg"
+        },
+        {
+          "id": "shorts",
+          "name": "Шорты Nike",
+          "layer": "",
+          "status": "have",
+          "notes": "",
+          "photo": "shorts.jpg"
         }
       ]
     },
