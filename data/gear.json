@@ -1,0 +1,182 @@
+{
+  "trip": "Восхождение на Арарат (5165 м)",
+  "updated": "2026-07-01",
+  "zones": [
+    {
+      "id": "top",
+      "title": "Верх (слои)",
+      "items": [
+        {
+          "id": "top-base",
+          "name": "Термобельё, верх (база)",
+          "layer": "База",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "top-mid",
+          "name": "Флиска / мид-слой",
+          "layer": "Утеплитель",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "top-shell",
+          "name": "Мембранная куртка (шелл)",
+          "layer": "Шелл",
+          "status": "buy",
+          "notes": "Forclaz MT500 Rain Jacket, размер L (с запасом под слои)",
+          "photo": null
+        }
+      ]
+    },
+    {
+      "id": "bottom",
+      "title": "Низ (слои)",
+      "items": [
+        {
+          "id": "bottom-base",
+          "name": "Термобельё, низ (база)",
+          "layer": "База",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "bottom-mid",
+          "name": "Мид-слой штаны",
+          "layer": "Утеплитель",
+          "status": "buy",
+          "notes": "Forclaz MT500",
+          "photo": null
+        },
+        {
+          "id": "bottom-shell",
+          "name": "Мембранные штаны (шелл)",
+          "layer": "Шелл",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        }
+      ]
+    },
+    {
+      "id": "footwear-acc",
+      "title": "Обувь и аксессуары",
+      "items": [
+        {
+          "id": "boots-trek",
+          "name": "Треккинговые ботинки Quechua MH500 Mid WP",
+          "layer": "",
+          "status": "have",
+          "notes": "Для подходов и акклиматизационных выходов",
+          "photo": null
+        },
+        {
+          "id": "thermos",
+          "name": "Термос Quechua Termos 900, 1 л",
+          "layer": "",
+          "status": "have",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "socks",
+          "name": "Треккинговые носки (2 пары)",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "gaiters",
+          "name": "Гамаши",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "headlamp",
+          "name": "Налобный фонарь",
+          "layer": "",
+          "status": "buy",
+          "notes": "Штурм начинается в 01:00-02:00 ночи",
+          "photo": null
+        },
+        {
+          "id": "poles",
+          "name": "Треккинговые палки",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "sitpad",
+          "name": "Сидушка",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "gloves-thin",
+          "name": "Тонкие перчатки",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "buff",
+          "name": "Бафф",
+          "layer": "",
+          "status": "buy",
+          "notes": "",
+          "photo": null
+        }
+      ]
+    },
+    {
+      "id": "rental",
+      "title": "Прокат в Турции",
+      "items": [
+        {
+          "id": "boots-alpine",
+          "name": "Альпинистские (пластиковые) ботинки",
+          "layer": "",
+          "status": "rent",
+          "notes": "Высотные, под кошки",
+          "photo": null
+        },
+        {
+          "id": "crampons",
+          "name": "Кошки",
+          "layer": "",
+          "status": "rent",
+          "notes": "",
+          "photo": null
+        },
+        {
+          "id": "down-jacket",
+          "name": "Пуховая куртка",
+          "layer": "",
+          "status": "rent",
+          "notes": "Для штурма выше 4500 м",
+          "photo": null
+        },
+        {
+          "id": "sleeping-bag",
+          "name": "Спальный мешок",
+          "layer": "",
+          "status": "rent",
+          "notes": "",
+          "photo": null
+        }
+      ]
+    }
+  ]
+}

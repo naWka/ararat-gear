@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Снаряжение — Арарат 5165</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>🏔️ Снаряжение — Арарат</h1>
+    <p class="subtitle" id="updated"></p>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <nav class="filters" id="filters">
+    <button class="chip active" data-filter="all">Всё</button>
+    <button class="chip chip-have" data-filter="have">Есть</button>
+    <button class="chip chip-buy" data-filter="buy">Купить</button>
+    <button class="chip chip-rent" data-filter="rent">Прокат</button>
+  </nav>
+
+  <main id="zones"></main>
+
+  <div class="lightbox" id="lightbox">
+    <img id="lightbox-img" src="" alt="">
+  </div>
+
+  <footer class="footer">
+    <p>Данные: <code>data/gear.json</code> · обновляется через Claude</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
