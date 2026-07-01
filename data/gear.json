@@ -156,19 +156,27 @@
         },
         {
           "id": "gloves-thin",
-          "name": "Тонкие перчатки",
+          "name": "Тонкие перчатки Columbia",
           "layer": "",
-          "status": "buy",
+          "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "gloves-thin.jpg"
         },
         {
           "id": "buff",
-          "name": "Бафф",
+          "name": "Баффы / балаклавы",
           "layer": "",
-          "status": "buy",
+          "status": "have",
+          "notes": "Несколько штук",
+          "photo": "buff.jpg"
+        },
+        {
+          "id": "hat",
+          "name": "Шапка The North Face",
+          "layer": "",
+          "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "hat.jpg"
         },
         {
           "id": "goggles",
