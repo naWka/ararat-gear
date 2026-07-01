@@ -16,11 +16,11 @@
         },
         {
           "id": "top-mid",
-          "name": "Флиска / мид-слой",
+          "name": "Флиска The North Face (грид-флис)",
           "layer": "Утеплитель",
-          "status": "buy",
+          "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "top-mid.jpg"
         },
         {
           "id": "top-shell",
@@ -54,11 +54,19 @@
         },
         {
           "id": "bottom-shell",
-          "name": "Мембранные штаны (шелл)",
+          "name": "Мембранные штаны Finntrail (шелл)",
           "layer": "Шелл",
-          "status": "buy",
-          "notes": "",
-          "photo": null
+          "status": "have",
+          "notes": "HARD-TEX, 4 слоя, водостойкость 17 000 мм",
+          "photo": "bottom-shell.jpg"
+        },
+        {
+          "id": "bottom-trek",
+          "name": "Треккинговые штаны Sivera",
+          "layer": "",
+          "status": "have",
+          "notes": "Основные ходовые штаны на подходы",
+          "photo": "bottom-trek.jpg"
         }
       ]
     },
@@ -145,6 +153,14 @@
           "status": "buy",
           "notes": "",
           "photo": null
+        },
+        {
+          "id": "goggles",
+          "name": "Горнолыжная маска",
+          "layer": "",
+          "status": "have",
+          "notes": "Защита глаз от ветра и солнца на штурме",
+          "photo": "goggles.jpg"
         }
       ]
     },
