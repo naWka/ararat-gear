@@ -80,7 +80,15 @@
           "layer": "",
           "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "thermos.jpg"
+        },
+        {
+          "id": "bottle-water",
+          "name": "Питьевая бутылка 1 л (Quechua)",
+          "layer": "",
+          "status": "have",
+          "notes": "",
+          "photo": "bottle-water.jpg"
         },
         {
           "id": "socks",
@@ -108,11 +116,11 @@
         },
         {
           "id": "poles",
-          "name": "Треккинговые палки",
+          "name": "Треккинговые палки Forclaz 500",
           "layer": "",
-          "status": "buy",
+          "status": "have",
           "notes": "",
-          "photo": null
+          "photo": "poles.jpg"
         },
         {
           "id": "sitpad",
@@ -137,6 +145,28 @@
           "status": "buy",
           "notes": "",
           "photo": null
+        }
+      ]
+    },
+    {
+      "id": "packs",
+      "title": "Рюкзаки и баулы",
+      "items": [
+        {
+          "id": "backpack-45",
+          "name": "Рюкзак World Traveller 45 л",
+          "layer": "",
+          "status": "have",
+          "notes": "Штурмовой/треккинговый рюкзак на выходы",
+          "photo": "backpack-45.jpg"
+        },
+        {
+          "id": "duffel-ngn",
+          "name": "Баул NGN Keep It Nordic",
+          "layer": "",
+          "status": "have",
+          "notes": "Водонепроницаемый транспортный баул (заброска вещей)",
+          "photo": "duffel-ngn.jpg"
         }
       ]
     },
