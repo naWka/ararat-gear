@@ -150,12 +150,19 @@
         },
         {
           "id": "headlamp",
-          "name": "Налобный фонарь",
+          "name": "Налобный фонарь Black Diamond",
+          "layer": "",
+          "status": "have",
+          "notes": "Штурм начинается в 01:00-02:00 ночи. Работает на батарейках AAA",
+          "photo": "headlamp.jpg"
+        },
+        {
+          "id": "batteries",
+          "name": "Батарейки AAA для фонаря",
           "layer": "",
           "status": "buy",
-          "notes": "Штурм начинается в 01:00-02:00 ночи",
-          "photo": null,
-          "link": "https://www.decathlon.rs/punjaci-baterije-i-solarni-paneli/328250-37489-crna-ceona-lampa-trek-500-200.html"
+          "notes": "Запасной комплект. На морозе садятся быстрее — брать литиевые",
+          "photo": null
         },
         {
           "id": "poles",
