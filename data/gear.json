@@ -173,12 +173,19 @@
         },
         {
           "id": "sitpad",
-          "name": "Сидушка",
+          "name": "Поджопник (сидушка) Forclaz",
           "layer": "",
-          "status": "buy",
+          "status": "have",
           "notes": "",
-          "photo": null,
-          "link": "https://www.decathlon.rs/stolice-i-prostirke-za-kampovanje/189397-15571-sivo-narancasta-podloga-za-planinarenje.html"
+          "photo": "foam-pad.jpg"
+        },
+        {
+          "id": "foam-pad",
+          "name": "Пенка / каремат Forclaz",
+          "layer": "",
+          "status": "have",
+          "notes": "Складная, под спальник в палатке",
+          "photo": "foam-pad.jpg"
         },
         {
           "id": "gloves-thin",
@@ -321,14 +328,6 @@
           "layer": "",
           "status": "rent",
           "notes": "Для снежного участка на штурме. Обычно берут в прокат вместе с кошками",
-          "photo": null
-        },
-        {
-          "id": "foam-pad",
-          "name": "Пенка / каремат",
-          "layer": "",
-          "status": "rent",
-          "notes": "Под спальник в палатке. Часто выдаёт оператор — уточнить",
           "photo": null
         }
       ]
