@@ -37,13 +37,18 @@ function renderStats() {
   `;
 }
 
+function photoSrc(p) {
+  return /^https?:\/\//.test(p) ? p : `images/${p}`;
+}
+
 function cardHTML(item) {
+  const src = item.photo ? photoSrc(item.photo) : "";
   const photo = item.photo
-    ? `<img src="images/${item.photo}" alt="${item.name}" loading="lazy">`
+    ? `<img src="${src}" alt="${item.name}" loading="lazy">`
     : STATUS_ICON[item.status];
   return `
     <div class="card" data-status="${item.status}">
-      <div class="card-photo" data-photo="${item.photo ? `images/${item.photo}` : ""}">${photo}</div>
+      <div class="card-photo" data-photo="${src}">${photo}</div>
       <div class="card-body">
         <span class="badge ${item.status}">${STATUS_LABEL[item.status]}</span>
         <div class="card-name">${item.name}</div>

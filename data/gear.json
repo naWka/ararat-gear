@@ -249,11 +249,11 @@
         },
         {
           "id": "camp-shoes",
-          "name": "Лёгкая обувь для лагеря",
+          "name": "Кроксы (для лагеря)",
           "layer": "",
-          "status": "buy",
-          "notes": "Сланцы/кроссовки — отдохнуть от ботинок в лагере",
-          "photo": null
+          "status": "have",
+          "notes": "Отдохнуть от ботинок в лагере",
+          "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Crocs.JPG"
         }
       ]
     },
