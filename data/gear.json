@@ -40,12 +40,11 @@
         },
         {
           "id": "top-shell",
-          "name": "Мембранная куртка (шелл)",
+          "name": "Хардшел-куртка Forclaz (мембрана)",
           "layer": "Шелл",
-          "status": "buy",
-          "notes": "Forclaz MT500 Rain Jacket, размер L (с запасом под слои)",
-          "photo": null,
-          "link": "https://www.decathlon.rs/7909-jakne-za-planinarenje"
+          "status": "have",
+          "notes": "Decathlon, мембрана 20 000 мм, проклеенные швы. Верхний слой от дождя/ветра",
+          "photo": "top-shell.jpg"
         }
       ]
     },
