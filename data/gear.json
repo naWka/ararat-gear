@@ -139,6 +139,15 @@
           "photo": "socks-sleep.jpg"
         },
         {
+          "id": "socks-warm",
+          "name": "Тёплые треккинговые носки (мериносовые)",
+          "layer": "",
+          "status": "buy",
+          "notes": "На штурм и холодные выходы. Decathlon SH900 Mountain, мериносовая шерсть",
+          "photo": null,
+          "link": "https://www.decathlon.rs/p/332177-106084-carape-za-planinarenje-sh900-mountain-srednje-visoke-tople.html"
+        },
+        {
           "id": "gaiters",
           "name": "Гамаши",
           "layer": "",
@@ -237,15 +246,6 @@
           "link": "https://www.decathlon.rs/suncane-naocare-za-planinarenje-i-skijanje/329876-117878-naocare-za-sunce-za-planinarenje-mh570-za-odrasle-4-kategorija.html"
         },
         {
-          "id": "gloves-warm",
-          "name": "Тёплые рукавицы / варежки",
-          "layer": "",
-          "status": "buy",
-          "notes": "На штурм поверх тонких перчаток. Мороз + ветер выше 4500 м",
-          "photo": null,
-          "link": "https://www.decathlon.rs/7890-tople-rukavice-za-planinarenje"
-        },
-        {
           "id": "sun-cap",
           "name": "Кепка / панама от солнца",
           "layer": "",
@@ -328,6 +328,14 @@
           "layer": "",
           "status": "rent",
           "notes": "Для снежного участка на штурме. Обычно берут в прокат вместе с кошками",
+          "photo": null
+        },
+        {
+          "id": "gloves-warm",
+          "name": "Тёплые рукавицы / варежки",
+          "layer": "",
+          "status": "rent",
+          "notes": "На штурм поверх тонких перчаток. Мороз + ветер выше 4500 м",
           "photo": null
         }
       ]
