@@ -148,15 +148,6 @@
           "link": "https://www.decathlon.rs/p/332177-106084-carape-za-planinarenje-sh900-mountain-srednje-visoke-tople.html"
         },
         {
-          "id": "gaiters",
-          "name": "Гамаши",
-          "layer": "",
-          "status": "buy",
-          "notes": "",
-          "photo": null,
-          "link": "https://www.decathlon.rs/dodaci/124466-4962-crne-kamasne-za-planinarenje-trek-500.html"
-        },
-        {
           "id": "headlamp",
           "name": "Налобный фонарь Black Diamond",
           "layer": "",
@@ -240,19 +231,17 @@
           "id": "sunglasses",
           "name": "Солнцезащитные очки (кат. 3–4)",
           "layer": "",
-          "status": "buy",
-          "notes": "Обязательно! На снегу и высоте — защита от снежной слепоты. Маска не заменяет: потеет и жарко на подъёме",
-          "photo": null,
-          "link": "https://www.decathlon.rs/suncane-naocare-za-planinarenje-i-skijanje/329876-117878-naocare-za-sunce-za-planinarenje-mh570-za-odrasle-4-kategorija.html"
+          "status": "have",
+          "notes": "Защита от снежной слепоты на высоте",
+          "photo": null
         },
         {
           "id": "sun-cap",
           "name": "Кепка / панама от солнца",
           "layer": "",
-          "status": "buy",
+          "status": "have",
           "notes": "На подходах днём, солнце жёсткое",
-          "photo": null,
-          "link": "https://www.decathlon.rs/kape-kapice-i-trake-za-glavu/303600-36749-bez-kacket-za-treking-sa-zastitom-za-vrat-trek-900.html"
+          "photo": null
         },
         {
           "id": "camp-shoes",
@@ -385,15 +374,6 @@
           "status": "buy",
           "notes": "Душа в лагере нет",
           "photo": null
-        },
-        {
-          "id": "drybags",
-          "name": "Гермомешки / плотные пакеты",
-          "layer": "",
-          "status": "buy",
-          "notes": "Разложить вещи в бауле и защитить от влаги",
-          "photo": null,
-          "link": "https://www.decathlon.rs/8384-vodootporne-torbe"
         },
         {
           "id": "earplugs",
